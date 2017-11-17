@@ -1,8 +1,8 @@
 {
   "threshold": 60,
   "home": "00010002",
-  "configDeepSleepDurationNormalSeconds": 900,
-  "configDeepSleepDurationAfterButtonPressSeconds": 900,
-  "configDeepSleepDurationSecondReportAfterButtonPressSeconds": 900,
-  "configEgressDetectionSleepDurationSeconds": 900
+  "configDeepSleepDurationNormalSeconds": 1800,
+  "configDeepSleepDurationAfterButtonPressSeconds": 1800,
+  "configDeepSleepDurationSecondReportAfterButtonPressSeconds": 1800,
+  "configEgressDetectionSleepDurationSeconds": 1800
 }
