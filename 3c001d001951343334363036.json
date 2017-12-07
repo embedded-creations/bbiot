@@ -4,5 +4,7 @@
   "configDeepSleepDurationNormalSeconds": 7200,
   "configDeepSleepDurationAfterButtonPressSeconds": 7200,
   "configDeepSleepDurationSecondReportAfterButtonPressSeconds": 7200,
-  "configEgressDetectionSleepDurationSeconds": 7200
+  "configEgressDetectionSleepDurationSeconds": 7200,
+  "configMaxDurationBetweenPublishSeconds": 121,
+  "configMaxNumSavedReportsBeforePublishing": 9
 }
