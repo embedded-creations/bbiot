@@ -1,6 +1,6 @@
 {
   "threshold": 60, 
-  "home": "00010028",
+  "home": "00010024",
   "configDeepSleepDurationNormalSeconds": 30,
   "configDeepSleepDurationAfterButtonPressSeconds": 30,
   "configDeepSleepDurationSecondReportAfterButtonPressSeconds": 30,
