@@ -7,4 +7,4 @@
   "configEgressDetectionSleepDurationSeconds": 30,
   "configMaxDurationBetweenPublishSeconds": 28800,
   "configMaxNumSavedReportsBeforePublishing": 11
-  )
+}
