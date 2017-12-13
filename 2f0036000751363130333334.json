@@ -1,0 +1,10 @@
+{
+  "threshold": 60, 
+  "home": "0002000B",
+  "configDeepSleepDurationNormalSeconds": 7200,
+  "configDeepSleepDurationAfterButtonPressSeconds": 30,
+  "configDeepSleepDurationSecondReportAfterButtonPressSeconds": 900,
+  "configEgressDetectionSleepDurationSeconds": 30,
+  "configMaxDurationBetweenPublishSeconds": 28800,
+  "configMaxNumSavedReportsBeforePublishing": 11
+}
